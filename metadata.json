@@ -1,0 +1,6 @@
+{
+  "name": "Blood Donor",
+  "description": "Blood Availability and Emergency Blood Donors network for urgent requests, stock levels, and donor search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

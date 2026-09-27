@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blood Donor</string>
+    <string name="app_subtitle">Blood Availability &amp; Emergency Donors</string>
+    <string name="home_title">Emergency Blood Network</string>
+    <string name="search_donors_hint">Search by city, hospital, or name…</string>
+    <string name="emergency_sos">EMERGENCY SOS</string>
+    <string name="available_units">Units Available</string>
+    <string name="registered_donors">Verified Donors</string>
+    <string name="urgent_requests">Urgent Requests</string>
+</resources>
